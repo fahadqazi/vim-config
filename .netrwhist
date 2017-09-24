@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/fahadqazi/Desktop/zoo/components'
+let g:netrw_dirhist_2='/Users/fahadqazi/Desktop/zoo/components/AWNavigation'
+let g:netrw_dirhist_3='/Users/fahadqazi/Desktop/AW/cloudfabriq-organisms-zoo'
